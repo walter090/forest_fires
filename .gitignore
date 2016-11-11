@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/forest_fires.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+.ipynb_checkpoints/
+corr_matrix.csv
+forest_fire_pred
+forest_fire_pred.csv
+mds.csv
+mds_attr.csv
